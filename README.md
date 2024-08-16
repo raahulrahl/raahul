@@ -1,6 +1,6 @@
 <h2 align="center">👋 I'm a Raahul ✨</h2>
 <p align="center">
-  <a href="https://https://musingsonai.substack.com">Newsletter</a> 
+  <a href="https://https://musingson.ai">Newsletter</a> 
   <a href="https://www.linkedin.com/in/raahuldutta/">LinkedIn</a>
   <a href="https://www.goodreads.com/user/show/58410168-raahul-dutta">Goodreads</a>
 </p>
