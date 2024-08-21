@@ -3,6 +3,7 @@
   <a href="https://musingson.ai">Newsletter</a> 
   <a href="https://www.linkedin.com/in/raahuldutta/">LinkedIn</a>
   <a href="https://www.goodreads.com/user/show/58410168-raahul-dutta">Goodreads</a>
+  <a href="https://open.spotify.com/playlist/6AhbSG253z5K7kK0MvFFHJ?si=337d46694f454587">Spotify</a>
 </p>
 
 - 📍 The Randstad, Netherlands
